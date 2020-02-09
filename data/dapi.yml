@@ -30,9 +30,9 @@ content:
     description: The purpose of this tutorial is to walk through the steps necessary to register a Dash
       Platform Name Service (DPNS) name.
     picture: /images/dapi/readme_io.png
-  - title: Submit Entities
+  - title: Submit Documents
     website: https://dashplatform.readme.io/docs/tutorial-submit-documents
-    description: Data is stored in the form of Entities (called documents in the implementation) which are
+    description: Data is stored in the form of Documents which are entities
       encapsulated in a state transition before being submitted to DAPI.
     picture: /images/dapi/readme_io.png
   - title: Retrieve Documents
