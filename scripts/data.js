@@ -24,7 +24,7 @@ module.exports = fs.readdirSync(dir)
 
     let sort = (a, b) => sortAbc(a.title, b.title)
 
-    if (file.slug === 'articles') {
+    if (file.slug === 'articles' || file.slug === 'videos') {
       sort = (a, b) => sortInv(a.date, b.date)
     }
 
