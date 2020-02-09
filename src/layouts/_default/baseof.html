@@ -13,7 +13,7 @@
       </a>
 
       {{ range (where .Site.Pages "Type" "category") }}
-      <a href="{{ .RelPermalink }}"
+      <a href="{{ .RelPermalink }}index.html"
         class="flex-grow-1 flex items-center justify-center white no-underline pa2 bg-animate dib bg-{{ .Params.color }}-muted hover-bg-{{ .Params.color }}">
         <span class="w2 h2 fill-white mr2">{{ partial (print "icons/" .Params.icon ".svg" ) }}</span>
         {{ .Title }}
