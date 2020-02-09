@@ -1,34 +1,90 @@
 title: Videos
 color: red
-description: Videos about IPFS.
+description: Videos about Dash Platform.
 icon: stroke_speaker
 content:
-  - title: IPFS Alpha - Why we must redistribute the web
-    website: https://www.youtube.com/watch?v=skMTdSEaCtA
-    picture: /images/ipfs-alpha.jpg
-  - title: IPFS Simply Explained
-    website: https://www.youtube.com/watch?v=5Uj6uR3fp-U
-    picture: /images/ipfs_simply_explained_video.jpg
+  - title: DASH EvoNet Review
+    date: "2020-01-06"
+    website: https://www.youtube.com/watch?v=Vs3cjw51o4w
+    picture: /images/videos/dash_evonet_review.jpg
     description: >
-      Let's take a look at how IPFS works, how it can solve issue's like
-      censorship and if it would really work across multiple planets!
-  - title: Juan Benet at Stanford 2015
-    website: https://www.youtube.com/watch?v=HUVmypx9HGI
-    picture: /images/stanford-2015.jpg
+      Today we are taking a look at the Dash Evonet which is a development network provided for
+      experimentation and evaluation of Dash Platform features.
+  - title: Introduction To Dash Platform - Dana Alibrandi
+    date: "2019-12-11"
+    website: https://www.youtube.com/watch?v=WNoMSP0nPDQ
+    picture: /images/videos/intro_to_platform_dana_alibrandi.jpg
     description: >
-       The talk includes a broad look at The IPFS Project, and a discussion on evolving the network stack through open source protocols R & D.
-  - title: Distributed Apps with IPFS - Juan Benet at Fullstack Fest 2016
-    website: https://www.youtube.com/watch?v=jONZtXMu03w
-    picture: /images/fullstack-fest-2016.jpg
+      Dana Alibrandi introduces Dash Platform and its functionality
+  - title: DashPay Wallet - Brian Foster
+    date: "2019-12-11"
+    website: https://www.youtube.com/watch?v=wkBFcWbsXtQ
+    picture: /images/videos/brian_foster_dashpay_wallet.jpg
     description: >
-      This talk breaks down how to build a dynamic app on top of IPFS with
-      CRDTs, pub/sub, and slick UIs. It also delves into new models for
-      distributed computation, and the ethical importance of distributing the
-      web.
-  - title: Textile Build Series - A Free Online Workshop
-    website: https://www.youtube.com/playlist?list=PLC8CEtJ9shDznO1tpvGe--BVEWmCKY9_Z
-    picture: /images/textile-build-series.jpg
+      Brian Foster describes the development and features of the "Evolution" DashPay Wallet
+  - title: Dash Evolution Open House Analysis | Tao & Amanda LIVE!
+    date: "2019-12-11"
+    website: https://www.youtube.com/watch?v=PFIOm9KO5sA
+    picture: /images/videos/dash_evo_recap.jpg
     description: >
-      A full Training Program to teach devs on how to build for the
-      Decentralized Web. The series covers a ton of content, touch multiple
-      parts of the IPFS stack and guides devs through building a simple DApp.
+      Join the team from Dash Core Group for an open discussion of the upcoming Dash Platform and
+      Dashpay-enabled wallets release, commonly known as Evolution.
+  - title: Dash Evolution Open House 2019
+    date: "2019-12-09"
+    website: https://www.youtube.com/watch?v=ie7fJMw5WIo
+    picture: /images/videos/evo_open_house.jpg
+    description: >
+      Join the team from Dash Core Group for an open discussion of the upcoming Dash Platform and
+      Dashpay-enabled wallets release, commonly known as Evolution.
+  - title: What is Dash Platform?
+    date: "2019-11-22"
+    website: https://www.youtube.com/watch?v=8jI7Nt3lILs
+    picture: /images/videos/news_what_is_dash_platform.jpg
+    description: >
+      The Cryptoviser analysis of Dash Platform
+  - title: Understanding Dash Platform and Chain - Expert Followup
+    date: "2019-10-31"
+    website: https://www.youtube.com/watch?v=Vb3KwVxPE84
+    picture: /images/videos/understanding_dash_platform_and_chain.jpg
+    description: >
+      Christopher sits down with Dash Product Manager Dana Alibrandi and Dash Core Developer Ivan Shumkov
+      to get into more technical details about the Dash Platform's concepts
+  - title: Dash Platform - Dana Alibrandi and Ivan Shumkov
+    date: "2019-10-12"
+    website: https://www.youtube.com/watch?v=5Q1cCt9v1U0
+    picture: /images/videos/dash_convention_eu.jpg
+    description: >
+      Dana Alibrandi, Dash Platform Product Owner, Dash Core Group
+      Ivan Shumkov, Dash Platform Engineer, Dash Core Group
+  - title: Dash Podcast 112 - Intro To Dash Platform feat. Dana Alibrandi
+    date: "2019-07-12"
+    website: https://www.youtube.com/watch?v=VcLdDmt9TSM
+    picture: /images/videos/dash_podcast_112.jpg
+    description: >
+      Intro To Dash Platform feat. Dana Alibrandi Product Owner from Dash Core Group
+  - title: Dash Podcast 100 - Feat. Ivan Shumkov
+    date: "2019-04-19"
+    website: https://www.youtube.com/watch?v=gUDN62ePWms
+    picture: /images/videos/dash_podcast_100.jpg
+    description: >
+      Intro To Dash Platform feat. Dana Alibrandi Product Owner from Dash Core Group
+  - title: Platform Prototype Demo 3
+    date: "2018-05-15"
+    website: https://www.youtube.com/watch?v=ZJVW9iUHqLg
+    picture: /images/videos/evo_demo_3.jpg
+    description: >
+      Chuck, Suba, and Chris from Dash Core demonstrate three exploratory designs for the Dashpay DAP demo home screen
+  - title: Platform Prototype Demo 2
+    date: "2018-04-25"
+    website: https://www.youtube.com/watch?v=EtYax7iz4hU
+    picture: /images/videos/evo_demo_2.jpg
+    description: >
+      Dash Core developers Joshua, Chuck, and Suba demonstrate the 2nd prototype of the first Dash decentralized
+      application, show off some mobile app designs, and demonstrate the VMN block explorer.
+  - title: Platform Prototype Demo 1
+    date: "2018-03-16"
+    website: https://www.youtube.com/watch?v=gbjYhZT2Ulc
+    picture: /images/videos/evo_demo_1.jpg
+    description: >
+      Dash Core developers Joshua and Chuck demonstrate a prototype of the first Dash decentralized application
+      and show some technical details of the Dash Evolution platform
