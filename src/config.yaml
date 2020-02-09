@@ -10,5 +10,5 @@ disableKinds:
 
 params:
   Description: >-
-    Useful resources for using IPFS and building things on top of it
+    Useful resources for building things on top of Dash Platform
   image: /images/banner.png
