@@ -30,3 +30,7 @@ dist
 /src/static/fonts
 /src/static/app.css
 /src/static/app.js
+
+# IDEs
+.idea
+.idea/*
