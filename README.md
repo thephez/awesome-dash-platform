@@ -41,7 +41,7 @@ Readme and the website are automatically generated. In order to add an element t
 - [Register an Identity](https://dashplatform.readme.io/docs/tutorial-register-an-identity) - Identities serve as the basis for interactions with Dash Platform. The purpose of this tutorial is to walk through the steps necessary to register a user identity.
 - [Retrieve Documents](https://dashplatform.readme.io/docs/tutorial-retrieve-documents) - In this tutorial we will retrieve some of the current data from a data contract.
 - [Send Funds](https://dashplatform.readme.io/docs/tutorial-send-funds) - Once you have a wallet and some funds, another common task is sending Dash to an address.
-- [Submit Entities](https://dashplatform.readme.io/docs/tutorial-submit-documents) - Data is stored in the form of Entities (called documents in the implementation) which are encapsulated in a state transition before being submitted to DAPI.
+- [Submit Documents](https://dashplatform.readme.io/docs/tutorial-submit-documents) - Data is stored in the form of Documents which are entities encapsulated in a state transition before being submitted to DAPI.
 
 ## Dapps
 
