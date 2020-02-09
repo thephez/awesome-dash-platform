@@ -1,0 +1,39 @@
+title: Dapps
+color: aqua
+icon: stroke_marketing
+description: Dapps under development for Dash Platform
+content:
+  - title: DPNS
+    website: https://dashplatform.readme.io/docs/explanation-dpns
+    source: https://github.com/dashevo/js-dpp/tree/v0.11-dev/schema/identity
+    picture: /images/dapps/dapp.png
+    description: >
+      Name Service Dapp providing Usernames for Dash Blockchain Identities (LIVE)
+  - title: DashPay
+    website: https://github.com/dashevo
+    source: https://github.com/dashevo
+    picture: /images/dapps/dapp.png
+    description: >
+      Mobile Dapp enabling Username based payments and Platform authentication (WIP)
+  - title: MemoDash
+    website: https://github.com/dashevo/memo-dash-prototype
+    source: https://github.com/dashevo/memo-dash-prototype
+    picture: /images/dapps/dapp.png
+    description: >
+      Decentralized Twitter Alternative Dapp in REACT (BOUNTY)
+  - title: Dash Chrome-Wallet
+    website: https://github.com/readme55/Dash-Chrome-Wallet
+    source: https://github.com/readme55/Dash-Chrome-Wallet
+    picture: /images/dapps/dapp.png
+    description: >
+      Chrome-Extension Cryptocurrency Wallet for the Dash EvoNet-Testnet environment (WIP)
+  - title: Merchant Directory
+    website: https://app.dashnexus.org/proposals/dash-platform-merchant-directory/overview
+    picture: /images/dapps/dapp.png
+    description: >
+      Merchant Directory Dapp (PROPOSAL)
+  - title: Masternode Polling Tool
+    website: https://chat.dashdevs.org
+    picture: /images/dapps/dapp.png
+    description: >
+      Polling Masternodes for Decisions (IDEA)
