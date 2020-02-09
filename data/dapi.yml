@@ -1,0 +1,41 @@
+title: DAPI
+color: teal
+icon: stroke_copy
+description: Useful code & tutorials for Dash Platform
+content:
+  - title: DashJS
+    website: https://dashevo.github.io/DashJS/#/
+    description: Connect to Dash from a Browser / NodeJS Server using Dash's Decentralized-API
+    picture: /images/brand/dashjs.png
+  - title: Connecting to Evonet
+    website: https://dashplatform.readme.io/docs/tutorial-connecting-to-evonet
+    description: The purpose of this tutorial is to walk through the steps necessary to access Dash's Decentralized API (DAPI)
+    picture: /images/dapi/readme_io.png
+  - title: Create and Fund a Wallet
+    website: https://dashplatform.readme.io/docs/tutorial-create-and-fund-a-wallet
+    description: This tutorial explains how to generate a new wallet, retrieve an address from it,
+      and transfer test funds to the address from a faucet.
+    picture: /images/dapi/readme_io.png
+  - title: Send Funds
+    website: https://dashplatform.readme.io/docs/tutorial-send-funds
+    description: Once you have a wallet and some funds, another common task is sending Dash to an address.
+    picture: /images/dapi/readme_io.png
+  - title: Register an Identity
+    website: https://dashplatform.readme.io/docs/tutorial-register-an-identity
+    description: Identities serve as the basis for interactions with Dash Platform. The purpose of this tutorial
+      is to walk through the steps necessary to register a user identity.
+    picture: /images/dapi/readme_io.png
+  - title: Register a Name for an Identity
+    website: https://dashplatform.readme.io/docs/tutorial-register-a-name-for-an-identity
+    description: The purpose of this tutorial is to walk through the steps necessary to register a Dash
+      Platform Name Service (DPNS) name.
+    picture: /images/dapi/readme_io.png
+  - title: Submit Entities
+    website: https://dashplatform.readme.io/docs/tutorial-submit-documents
+    description: Data is stored in the form of Entities (called documents in the implementation) which are
+      encapsulated in a state transition before being submitted to DAPI.
+    picture: /images/dapi/readme_io.png
+  - title: Retrieve Documents
+    website: https://dashplatform.readme.io/docs/tutorial-retrieve-documents
+    description: In this tutorial we will retrieve some of the current data from a data contract.
+    picture: /images/dapi/readme_io.png
