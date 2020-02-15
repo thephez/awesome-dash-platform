@@ -27,4 +27,9 @@ content:
   website: https://github.com/dashevo/dash-network-deploy
   description: This tool assists in deploying and managing Dash networks.
   picture: /images/sites/GitHub-Mark.png
+- title: DAPI Client Python
+  source: https://github.com/thephez/dapi-client-py
+  website: https://github.com/thephez/dapi-client-py
+  description: A very basic, read-only DAPI client.
+  picture: /images/sites/GitHub-Mark.png
 
