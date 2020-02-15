@@ -6,13 +6,13 @@
 <body>
   <div class="charcoal sans-serif w-90 mw9 center">
     <nav class="montserrat mv4 fw6 flex-wrap ttu tracked sans-serif flex flex-between">
-      <a href="{{ .Site.BaseURL }}/index.html" class="w-100 w-auto-l flex items-center pv3 pv0-l mr3 flex-grow-1 flex items-center justify-center justify-start-l no-underline" >
+      <a href="{{ .Site.BaseURL }}/" class="w-100 w-auto-l flex items-center pv3 pv0-l mr3 flex-grow-1 flex items-center justify-center justify-start-l no-underline" >
         <img alt="Dash" src="{{ .Site.BaseURL }}/images/brand/Dash-D-white_on_blue_circle_s.png" class="w3 h3 mr3">
         <h1 class="f3 white">Dash Platform</h1>
       </a>
 
       {{ range (where .Site.Pages "Type" "category") }}
-      <a href="{{ .RelPermalink }}index.html"
+      <a href="{{ .RelPermalink }}"
         class="flex-grow-1 flex items-center justify-center white no-underline pa2 bg-animate dib bg-{{ .Params.color }}-muted hover-bg-{{ .Params.color }}">
         <span class="w2 h2 fill-white mr2">{{ partial (print "icons/" .Params.icon ".svg" ) }}</span>
         {{ .Title }}
