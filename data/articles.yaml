@@ -28,6 +28,11 @@ content:
     website: https://www.fxstreet.com/cryptocurrencies/news/dash-developers-announced-the-timeline-of-evolution-platform-release-201911161943
     description: FX Street
     picture: /images/articles/fx_street.jpg
+  - title: Introducing the Platform Chain
+    date: "2019-10-17"
+    website: https://blog.dash.org/introducing-the-platform-chain-982fe6aea67f
+    description: Dash Blog
+    picture: /images/articles/dana_intro_to_dash_platform.jpeg
   - title: An Introduction to Dash Platform, DAPI, and Drive
     date: "2019-05-20"
     website: https://blog.dash.org/an-introduction-to-dash-platform-dapi-and-drive-9d080d6e89c9
