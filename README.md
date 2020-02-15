@@ -30,6 +30,7 @@ Readme and the website are automatically generated. In order to add an element t
 - 2019-12-18: [Edge Wallet Highlights Dash Evolution Update](https://dashnews.org/edge-wallet-highlights-dash-evolution-update-skeptical-on-store-of-value-analysis/) - Dash News
 - 2019-12-09: [Ryan Taylor Explains Unique Pain Point Dash Platform Solves for Consumers and Merchants](https://dashnews.org/ryan-taylor-explains-unique-pain-point-dash-platform-solves-for-consumers-and-merchants/) - Dash News
 - 2019-11-16: [Dash developers announced the timeline of  Evolution platform release](https://www.fxstreet.com/cryptocurrencies/news/dash-developers-announced-the-timeline-of-evolution-platform-release-201911161943) - FX Street
+- 2019-10-17: [Introducing the Platform Chain](https://blog.dash.org/introducing-the-platform-chain-982fe6aea67f) - Dash Blog
 - 2019-05-20: [An Introduction to Dash Platform, DAPI, and Drive](https://blog.dash.org/an-introduction-to-dash-platform-dapi-and-drive-9d080d6e89c9) - Dash Blog
 
 ## DAPI
@@ -55,6 +56,7 @@ Readme and the website are automatically generated. In order to add an element t
 ## Docs
 
 - [Core Developer Guide](https://dash-docs.github.io/en/developer-guide) - Detailed docs for working with Dash's internal Core Network [Source](https://github.com/dash-docs/dash-docs)
+- [Dash User Docs](https://docs.dash.org/en/stable/) - User documentation for understanding general Dash concepts & usage
 - [DashJS](https://dashevo.github.io/DashJS) - JavaScript library for Dapp developers on Dash Platform
 - [Platform Developer Guide](https://dashplatform.readme.io/) - Guides and documentation to help you start working with Dash Platform as quickly as possible, as well as support if you get stuck.
 
@@ -62,6 +64,7 @@ Readme and the website are automatically generated. In order to add an element t
 
 - [Block Explorer (Core)](http://devnet-evonet-1117662964.us-west-2.elb.amazonaws.com:3001/insight/) - Core Network Blocks (Layer 1), for Currency, Identity and Credit Transactions [Source](https://github.com/dashevo/insight-ui)
 - [Block Explorer (Platform)](https://github.com/dappforce/dappforce-tendermint-explorer) - Masternode Network blocks (Layer 2), for State Transitions
+- [DAPI Client Python](https://github.com/thephez/dapi-client-py) - A very basic, read-only DAPI client.
 - [Dash Network Deploy](https://github.com/dashevo/dash-network-deploy) - This tool assists in deploying and managing Dash networks.
 - [EvoNet Faucet](http://devnet-evonet-1117662964.us-west-2.elb.amazonaws.com/) - Get EvoNet coins to test with
 - [Platform Console](https://dash-platform-console.now.sh/identities) - Explore & Update Platform State (WIP) [Source](https://github.com/denlb/dash-platform-console)
